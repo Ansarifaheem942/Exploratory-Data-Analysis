@@ -1,9 +1,3 @@
-# Exploratory-Data-Analysis
-
-Understanding the dataset to explore how the data is present in the database and if there is a need of creating some aggrigated that can help with:
-Vendor Selection for profibility
-Product Pricing Optimization
-
 import pandas as pd
 import sqlite3
 
