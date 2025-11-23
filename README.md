@@ -3,6 +3,9 @@
 .Vendor Selection for profibility
 .Product Pricing Optimization
 
+import pandas as pd
+import sqlite3
+
 # Creating Database Connection
 conn = sqlite3.connect('inventory.db')
 
